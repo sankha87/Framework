@@ -6,7 +6,7 @@ class Test101
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		System.out.print("enter no of test cases : ");
+	System.out.print("enter no of test cases : ");
     Scanner sc = new Scanner(System.in);
     int text =sc.nextInt();
     
@@ -16,7 +16,6 @@ class Test101
 	    int b=sc.nextInt();  
 	    double c=(a*b);        
 	    int d=(int) (Math.ceil(c/4));           
-
 	    System.out.println(d);
 	}
 	}
