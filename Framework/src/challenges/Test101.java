@@ -1,5 +1,6 @@
 package challenges;
 import java.util.Scanner;
+// codechef example
 
 class Test101
 {
